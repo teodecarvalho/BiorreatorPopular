@@ -23,7 +23,7 @@ Universidade Federal de Lavras (UFLA)
 Este projeto está licenciado sob a **CERN Open Hardware Licence v2 - Permissiva (CERN-OHL-P)**.  
 Você pode usar, modificar, fabricar e comercializar este biorreator **desde que mantenha os devidos créditos** à equipe criadora.
 
-Leia o arquivo [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuicao.txt) para mais detalhes.
+Leia o arquivo [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuição.md) para mais detalhes.
 
 ## 📁 **Conteúdo do repositório**
 
