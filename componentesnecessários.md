@@ -1,3 +1,3 @@
-![image](https://github.com/user-attachments/assets/a19bddcf-a193-45be-a473-746ec72bde5e)
+![image](https://github.com/user-attachments/assets/b54ed139-42c2-4578-8b96-e74708523938)
 
 **Lista dos componentes necessários para a construção de um biorreator de baixo custo.**
