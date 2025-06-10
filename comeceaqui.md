@@ -28,7 +28,7 @@ Leia o arquivo [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiçã
 
 ## 📁 **Conteúdo do repositório**
 
-- componentes necessários.md: lista de materiais
+- componentes necessários: lista de materiais
 - protocolo simplificado: guia de operação do biorreator
 - fotos: registros visuais do biorreator
 
