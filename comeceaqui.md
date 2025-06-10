@@ -28,9 +28,9 @@ Leia o arquivo [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiçã
 
 ## 📁 **Conteúdo do repositório**
 
-- `projeto-tecnico/`: desenhos técnicos, esquemas e lista de materiais
-- `manual-uso/`: guia de montagem e operação do biorreator
-- `fotos-videos/`: registros visuais do protótipo e montagem
+- componentes necessários.md: lista de materiais
+- protocolo simplificado: guia de operação do biorreator
+- fotos: registros visuais do biorreator
 
 ### ⚠️ Aviso
 
