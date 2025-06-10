@@ -15,7 +15,7 @@ Oferecer uma solução acessível, funcional e replicável para a multiplicaçã
 - Sílvia Maria de Oliveira-Longatti
 - Marcela de Souza Pereira  
 - Teotonio Soares de Carvalho  
-- Fátima Maria de Souza Moreira
+- Fatima Maria de Souza Moreira
    
 Universidade Federal de Lavras (UFLA)
 
