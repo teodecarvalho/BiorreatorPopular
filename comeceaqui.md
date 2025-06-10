@@ -39,4 +39,4 @@ Leia o arquivo [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiçã
 
 ## 📢 **Como citar**
 
-***Sílvia M. de O. Longatti et al. (2025). Montando e Utilizando o Biorreator Popular. UFLA. Licença CERN-OHL-P. Disponível em:***
+***Sílvia M. de Oliveira-Longatti et al. (2025). Montando e Utilizando o Biorreator Popular. UFLA. Licença CERN-OHL-P. Disponível em:***
