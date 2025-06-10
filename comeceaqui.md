@@ -35,7 +35,7 @@ Leia o arquivo [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiçã
 ### ⚠️ Aviso
 
 > **Este acervo ainda está em construção.**  
-> Mais detalhes e novas atualizações serão disponibilizados periodicamente.
+> Mais detalhes e novas atualizações serão disponibilizados em breve.
 
 ## 📢 **Como citar**
 
