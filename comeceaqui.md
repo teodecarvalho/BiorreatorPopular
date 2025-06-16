@@ -17,7 +17,7 @@ Oferecer uma solução acessível, funcional e replicável para a multiplicaçã
 - Teotonio Soares de Carvalho  
 - Fatima Maria de Souza Moreira
    
-Universidade Federal de Lavras (UFLA)
+> Universidade Federal de Lavras (UFLA)
 
 ## 📜 **Licença**
 
@@ -28,13 +28,13 @@ Leia o arquivo [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiçã
 
 ## 📁 **Conteúdo do repositório**
 
-- componentes necessários: lista de materiais
-- protocolo simplificado: guia de operação do biorreator
-- fotos: registros visuais do biorreator
+- Componentes necessários: lista de materiais
+- Protocolo simplificado: guia de operação do biorreator
+- Fotos: registros visuais do biorreator
 
 ### ⚠️ Aviso
 
-> **Este acervo ainda está em construção.**  
+**Este acervo ainda está em construção.**  
 > Mais detalhes e novas atualizações serão disponibilizados em breve.
 
 ## 📢 **Como citar**
