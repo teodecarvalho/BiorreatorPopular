@@ -7,4 +7,4 @@ Este trabalho está licenciado sob a Licença CERN Open Hardware - Permissiva (C
 ## Atribua sempre da seguinte forma:
 **Sílvia M. de Oliveira-Longatti et al. (2025). Montando e Utilizando o Biorreator Popular. UFLA. Licença CERN-OHL-P.**
 
-## Repositório oficial: 
+> ## Repositório oficial: https://github.com/teodecarvalho/BiorreatorPopular
