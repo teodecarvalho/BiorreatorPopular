@@ -1,4 +1,4 @@
-# 💉 Protocolo de Inoculação no Biorreator 1.0
+# 💉 Protocolo de Inoculação no Biorreator Popular
 
 Este protocolo descreve o procedimento de **inoculação asséptica** no **Biorreator Popular**, visando garantir a integridade do meio e a eficiência do processo de multiplicação microbiana.
 
