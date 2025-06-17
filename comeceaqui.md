@@ -32,11 +32,22 @@ Leia os arquivos [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiç
 - Protocolo simplificado: guia de operação do biorreator
 - Fotos: registros visuais do biorreator
 
-### ⚠️ Aviso
-
-**Este acervo ainda está em construção.**  
-> Mais detalhes e novas atualizações serão disponibilizados em breve.
-
 ## 📢 **Como citar**
 
 ***Sílvia M. de Oliveira-Longatti et al. (2025). Montando e Utilizando o Biorreator Popular. UFLA. Licença CERN-OHL-P. Disponível em:***
+
+## 🙏 Agradecimentos
+
+Este projeto contou com o apoio e financiamento das seguintes instituições:
+
+- **CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico**  
+- **FINEP — Financiadora de Estudos e Projetos**  
+- **FAPEMIG — Fundação de Amparo à Pesquisa do Estado de Minas Gerais**  
+- **IQualiS Biotecnologia LTDA - ME**
+
+A equipe agradece pelo suporte ao desenvolvimento da ciência aberta e da pesquisa aplicada no Brasil.
+
+## ⚠️ Aviso
+
+**Este acervo ainda está em construção.**  
+> Mais detalhes e novas atualizações serão disponibilizados em breve.
