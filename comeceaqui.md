@@ -36,6 +36,12 @@ Leia os arquivos [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiç
 
 ***Sílvia M. de Oliveira-Longatti et al. (2025). Montando e Utilizando o Biorreator Popular. UFLA. Licença CERN-OHL-P. Disponível em:***
 
+
+## 🔗 Projetos relacionados
+
+- [Meios de Cultura Abertos (projeto parceiro)](https://github.com/teodecarvalho/MeiosDeCulturaAbertos.git)
+
+
 ## 🙏 Agradecimentos
 
 Este projeto contou com o apoio e financiamento das seguintes instituições:
