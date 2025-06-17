@@ -10,7 +10,7 @@
 | Ímã neodímio disco 5 x 3 mm    | 5 x 3 mm                                      | 8       |
 | Motor de passo                 | Nema 17 de 4,2 kgf para impressora 3D         | 1       |
 | Placa Arduíno                  | Nano V3 com Cabo USB                          | 1       |
-| Fonte Arduíno                  | 12W                                            | 1      |
+| Fonte Arduíno                  | 12V                                            | 1      |
 | Compressor de ar 6W           | Bomba de aquário com vazão de 4 L/min         | 1       |
 | Fogão industrial               | 1 boca, alta pressão, com mangueira e registro| 1       |
 | Panela de pressão 24 L         | ≈ 37 cm de altura                             | 1       |
