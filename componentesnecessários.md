@@ -4,10 +4,10 @@
 |--------------------------------|-----------------------------------------------|---------|
 | Frasco reagente                | Borossilicato 3.3, 2 L                         | 1       |
 | Filtro de ar                   | PTFE 0,45 µm com 25 mm Ø                       | 1       |
-| Tubo de silicone               | 3 mm Ø interno × 5 mm Ø externo                | 1 m     |
-| Tubo de silicone               | 2 mm Ø interno × 4 mm Ø externo                | 0,5 m   |
-| Ímã neodímio disco 12 x 4 mm   | 12 x 4 mm                                     | 15      |
-| Ímã neodímio disco 5 x 3 mm    | 5 x 3 mm                                      | 8       |
+| Tubo de silicone               | 5 mm Ø externo × 3 mm Ø interno                | 1 m     |
+| Tubo de silicone               | 8 mm Ø externo × 4 mm Ø interno                | 0,5 m   |
+| Ímã neodímio disco 13 x 5 mm   | 13 x 5 mm                                     | 9      |
+| Ímã neodímio disco 5 x 3 mm    | 5 x 3 mm                                      | 23       |
 | Motor de passo                 | Nema 17 de 4,2 kgf para impressora 3D         | 1       |
 | Placa Arduíno                  | Nano V3 com Cabo USB                          | 1       |
 | Fonte Arduíno                  | 12V                                            | 1      |
