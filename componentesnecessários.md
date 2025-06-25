@@ -15,4 +15,4 @@
 | Fogão industrial               | 1 boca, alta pressão, com mangueira e registro| 1       |
 | Panela de pressão 24 L         | ≈ 37 cm de altura                             | 1       |
 | Seringa                        | 10 mL                                         | 1       |
-| Suporte MDF                    | —                                             | 1       |
+| Suporte MDF                    | 10 cm altura x 18 cm largura x 10 cm Ø                                          | 1       |
