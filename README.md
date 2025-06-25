@@ -28,9 +28,15 @@ Leia os arquivos [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiç
 
 ## 📁 **Conteúdo do repositório**
 
-- Componentes necessários: lista de materiais
-- Protocolo simplificado: guia de operação do biorreator
-- Fotos: registros visuais do biorreator
+- [Componentes necessários](./componentesnecessários.md)
+- [Protocolo simplificado](./manual_simplificado.md)
+- [Esterilização](./esterilização.md)
+- [Inoculação](./inoculação.md)
+- [Fotos](./fotos.md)
+- [Atribuição](./atribuição.md)
+- [Agradecimentos](./agradecimentos.md)
+- [Contato](./contato.md)
+
 
 ## 📢 **Como citar**
 
@@ -52,6 +58,16 @@ Este projeto contou com o apoio e financiamento das seguintes instituições:
 - **IQualiS Biotecnologia LTDA - ME**
 
 A equipe agradece pelo suporte ao desenvolvimento da ciência aberta e da pesquisa aplicada no Brasil.
+
+
+## 📧 Contato
+
+Para maiores informações, entre em contato com:
+
+**Sílvia Maria de Oliveira-Longatti** [sylmaria@gmail.com](mailto:sylmaria@gmail.com) 
+
+**Marcela de Souza Pereira**       [marcela.pereira4@estudante.ufla.br](mailto:marcela.pereira4@estudante.ufla.br) 
+
 
 ## ⚠️ Aviso
 
