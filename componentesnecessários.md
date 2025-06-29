@@ -12,6 +12,7 @@
 | Placa Arduíno                  | Nano V3 com Cabo USB                          | 1       |
 | Fonte Arduíno                  | 12V                                            | 1      |
 | Compressor de ar 6W           | Bomba de aquário com vazão de 4 L/min         | 1       |
+| Parafuso latão           | 30 x 12 mm        | 4       |
 | Fogão industrial               | 1 boca, alta pressão, com mangueira e registro| 1       |
 | Panela de pressão 24 L         | ≈ 37 cm de altura                             | 1       |
 | Seringa                        | 10 mL                                         | 1       |
