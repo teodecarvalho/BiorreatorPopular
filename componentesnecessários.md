@@ -10,7 +10,7 @@
 | Ímã neodímio disco 5 x 3 mm    | 5 x 3 mm                                      | 23       |
 | Motor de passo                 | Nema 17 de 4,2 kgf com conector               | 1       |
 | Placa Arduíno                  | Nano V3 com Cabo USB                          | 1       |
-| Fonte Arduíno                  | 12V                                            | 1      |
+| Fonte Arduíno                  | 12 V                                            | 1      |
 | Diodo                          | 1N4001                                      |    2      |
 | Capacitor                      | 16 V 330 μf                                         |  1      |
 | Placa de fenolite ilhada        | 5 cm x 7 cm                                   |  1       |
