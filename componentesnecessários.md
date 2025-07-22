@@ -8,10 +8,15 @@
 | Tubo de silicone               | 8 mm Ø externo × 4 mm Ø interno                | 0,5 m   |
 | Ímã neodímio disco 13 x 5 mm   | 13 x 5 mm                                     | 9      |
 | Ímã neodímio disco 5 x 3 mm    | 5 x 3 mm                                      | 23       |
-| Motor de passo                 | Nema 17 de 4,2 kgf para impressora 3D         | 1       |
+| Motor de passo                 | Nema 17 de 4,2 kgf com conector               | 1       |
 | Placa Arduíno                  | Nano V3 com Cabo USB                          | 1       |
 | Fonte Arduíno                  | 12V                                            | 1      |
-| Compressor de ar 6W           | Bomba de aquário com vazão de 4 L/min         | 1       |
+| Diodo                          | 1N4001                                      |    2      |
+| Capacitor                      | 16 V 330 μf                                         |  1      |
+| Placa de fenolite ilhada        | 5 cm x 7 cm                                   |  1       |
+| Driver                          | Drv8825 com dissipador                        | 1        | 
+| Conector tipo borne             | 2 entradas                                    | 1        |
+| Compressor de ar 6W           | Bombinha de aquário com vazão de 4 L/min         | 1       |
 | Parafuso latão           | 30 x 12 mm        | 4       |
 | Fogão industrial               | 1 boca, alta pressão, com mangueira e registro| 1       |
 | Panela de pressão 24 L         | ≈ 37 cm de altura                             | 1       |
