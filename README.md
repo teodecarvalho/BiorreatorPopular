@@ -29,6 +29,7 @@ Leia os arquivos [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiç
 ## 📁 **Conteúdo do repositório**
 
 - [Componentes necessários](./componentesnecessários.md)
+- [Montagem do biorreator](https://youtu.be/2rRajdyz__Y?si=axPdRqTyhgE--sDs)
 - [Protocolo simplificado](./manual_simplificado.md)
 - [Esterilização](./esterilização.md)
 - [Inoculação](./inoculação.md)
