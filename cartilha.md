@@ -1,6 +1,6 @@
 <img width="4419" height="6250" alt="1" src="https://github.com/user-attachments/assets/675c8efb-b372-479e-89ce-e082395ad307" />
 <img width="4419" height="6250" alt="2" src="https://github.com/user-attachments/assets/208abcad-e08a-4632-846b-7491f2c00f5f" />
-<img width="4419" height="6250" alt="3" src="https://github.com/user-attachments/assets/c5447389-3c14-4826-9757-f105294cf86c" />
+<img width="4419" height="6250" alt="Material de apoio - biorreator" src="https://github.com/user-attachments/assets/993f0751-c8d9-45e5-b58d-a49717c029d0" />
 <img width="4419" height="6250" alt="4" src="https://github.com/user-attachments/assets/09260e47-eed0-4a3b-8487-82a424c31e14" />
 <img width="4419" height="6250" alt="5" src="https://github.com/user-attachments/assets/a4497350-e79f-4d0f-9ea9-a8f8a42826b9" />
 <img width="4419" height="6250" alt="6" src="https://github.com/user-attachments/assets/d9ecb42a-bf66-44fa-a619-3deb7b9cdc73" />
