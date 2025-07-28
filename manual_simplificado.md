@@ -1,5 +1,10 @@
-![1](https://github.com/user-attachments/assets/80fd3f0b-c958-47a9-8c06-8834db1c533b)
-![2](https://github.com/user-attachments/assets/0b4ef25b-786d-4351-92ef-cbb1518b4a9f)
-![Protocolo Simplificado Biorreator (3) (1)](https://github.com/user-attachments/assets/ab3db391-7338-4b60-82b0-2e4f6a85bbe3)
-![4](https://github.com/user-attachments/assets/23f25e0e-0428-45d9-b830-1ede2d19c7d1)
-
+<img width="4419" height="6250" alt="1" src="https://github.com/user-attachments/assets/675c8efb-b372-479e-89ce-e082395ad307" />
+<img width="4419" height="6250" alt="2" src="https://github.com/user-attachments/assets/208abcad-e08a-4632-846b-7491f2c00f5f" />
+<img width="4419" height="6250" alt="3" src="https://github.com/user-attachments/assets/c5447389-3c14-4826-9757-f105294cf86c" />
+<img width="4419" height="6250" alt="4" src="https://github.com/user-attachments/assets/09260e47-eed0-4a3b-8487-82a424c31e14" />
+<img width="4419" height="6250" alt="5" src="https://github.com/user-attachments/assets/a4497350-e79f-4d0f-9ea9-a8f8a42826b9" />
+<img width="4419" height="6250" alt="6" src="https://github.com/user-attachments/assets/d9ecb42a-bf66-44fa-a619-3deb7b9cdc73" />
+<img width="4419" height="6250" alt="7" src="https://github.com/user-attachments/assets/631cbf3e-f5df-4d8f-8053-560aaa5d5d4a" />
+<img width="4419" height="6250" alt="8" src="https://github.com/user-attachments/assets/59432e1a-9c3e-40c9-926d-c74bace0370b" />
+<img width="4419" height="6250" alt="9" src="https://github.com/user-attachments/assets/194dcf41-4689-4054-9952-1c2a14b63e6d" />
+<img width="4419" height="6250" alt="10" src="https://github.com/user-attachments/assets/d4d95ded-4142-4efe-9cb3-6a05dc90ec9c" />
