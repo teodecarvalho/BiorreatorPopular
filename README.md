@@ -36,6 +36,7 @@ Leia os arquivos [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuiç
 - [Fotos](./fotos.md)
 - [Atribuição](./atribuição.md)
 - [Agradecimentos](./agradecimentos.md)
+- [Reportagens](./reportagens.md)
 - [Contato](./contato.md)
 
 
