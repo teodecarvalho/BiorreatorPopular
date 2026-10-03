@@ -6,7 +6,7 @@ Este protocolo descreve o procedimento de **inoculação asséptica** no **Biorr
 
 ## 🧪 Materiais Necessários
 
-- Seringa contendo o inóculo (1 mL)
+- Seringa contendo o inóculo 
 - Álcool 70%
 - Par de luvas descartáveis
 - Lacre (ex: clipe) para mangueira suspiro
