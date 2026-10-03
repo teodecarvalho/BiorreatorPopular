@@ -6,7 +6,7 @@ Este protocolo descreve o processo de **esterilização simplificada do Biorreat
 
 ## 🧪 Materiais Necessários
 
-- Frasco biorreator 1.0 montado (com tampa, bailarina e suporte magnético)
+- Frasco biorreator montado (com tampa, bailarina e suporte magnético)
 - Escova de limpeza longa
 - Detergente neutro
 - Papel alumínio
@@ -14,7 +14,7 @@ Este protocolo descreve o processo de **esterilização simplificada do Biorreat
 - Imã externo
 - Panela de pressão de 24 L com fogão
 - 2 litros de água
-- Meio de cultura (1,8 L preparado)
+- Meio de cultura (2 L preparado)
 
 ---
 
@@ -22,7 +22,7 @@ Este protocolo descreve o processo de **esterilização simplificada do Biorreat
 
 ### 🔹 Preparação do Frasco
 
-1. **Prepare 1,8 L de meio de cultura** conforme o protocolo específico.
+1. **Prepare 2 L de meio de cultura** conforme o protocolo específico.
    > 🔗 [Meios de Cultura Abertos](https://github.com/teodecarvalho/MeiosDeCulturaAbertos.git)
 2. **Lave o frasco biorreator e seus componentes** (tampa, bailarina, suporte magnético da mangueira) com detergente e bucha.
    - Use uma escova longa para limpar o interior do frasco.
