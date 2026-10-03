@@ -9,6 +9,8 @@ Este projeto contou com o apoio e financiamento das seguintes instituições:
 
 **FAPEMIG — Fundação de Amparo à Pesquisa do Estado de Minas Gerais**
 
+**INCT Biodiversidade do Solo**
+
 **IQualiS Biotecnologia LTDA - ME**
 
 A equipe agradece pelo suporte ao desenvolvimento da ciência e da pesquisa aplicada no Brasil.
