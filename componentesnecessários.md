@@ -14,13 +14,16 @@
 | Fonte Arduíno                  | 12V/5A                                            | 1      |
 | Diodo                          | 1N4001                                      |    2      |
 | Capacitor                      | 16 V 330 μf                                         |  1      |
-| Placa de fenolite ilhada        | 5 cm x 7 cm                                   |  1       |
+| Placa de fenolite        | 5 cm x 7 cm                                   |  1       |
 | Driver                          | Drv8825 com dissipador                        | 1        | 
+| Barra de pinos fêmea                          | 1 x 40 vias 2,54 mm                        | 2        |
+| Barra de pinos macho                          | 1 x 40 vias 2,54 mm                        | 1        | 
 | Conector tipo borne             | 2 entradas                                    | 1        |
 | Compressor de ar 6W           | Bombinha de aquário com vazão de 4 L/min         | 1       |
-| Parafuso latão           | 30 x 12 mm        | 8       |
-| Arruela lisa         | -| 4       |
-| Fio de estanho         | 63% Sn 37% Pb        | 1       |
+| Parafuso latão           | 5 mm  Ø      | 4     |
+| Parafuso latão           | 7 mm  Ø      | 4     |
+| Arruela lisa         | 10 mm Ø externo × 5 mm Ø interno  | 4       |
+| Fio de estanho         | 63% Sn 37% Pb  0,5 mm 2.4%      | 1       |
 | Fogão industrial               | 1 boca, alta pressão, com mangueira e registro| 1       |
 | Panela de pressão 24 L         | ≈ 37 cm de altura                             | 1       |
 | Seringa                        | 10 mL                                         | 1       |
@@ -33,7 +36,6 @@
 
 1. Furadeira/Parafusadeira
 2. Ferro de solda com suporte
-3. Fio de estanho 63% Sn 37% Pb
-4. Multímetro
-5. Chave philips
-6. Chave de fenda 
+3. Multímetro
+4. Chave philips
+5. Chave de fenda 
